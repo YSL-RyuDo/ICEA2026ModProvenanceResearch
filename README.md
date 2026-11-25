@@ -1,4 +1,4 @@
-# ICEA 2026, Server-Side Multi-Parent Provenance Reconstruction for Copyright-Related Source Attribution in Heterogeneous Game MOD Packages
+# ICEA 2026, Server Side Multi Parent Provenance Reconstruction for Copyright Related Source Attribution in Heterogeneous Game MOD Packages
 
 [![Research status](https://img.shields.io/badge/status-Phase_1--13_complete-2ea44f)](reproducibility/EXPERIMENT_INDEX.md#user-content-experiment-en)
 [![Benchmark](https://img.shields.io/badge/benchmark-frozen-6f42c1)](reproducibility/EXPERIMENT_INDEX.md#freeze-anchors)
@@ -198,6 +198,6 @@ For research questions or reproducibility reports, use the repository's GitHub I
 
 ## KSAVS 2026, Related research
 
-[A Comparative Analysis of Software Component Provenance Identification Techniques](https://github.com/YSL-RyuDo/ksavs-2026-software-provenance-survey)
+[A Comparative Analysis of Software Component Provenance Identification Techniques](https://github.com/YSL-RyuDo/KSAVS2026SoftwareProvenanceSurvey)
 
 Compared CENTRIS, BinaryAI, LibAM, BinCoFer and BLADE through their inputs, matching evidence and outputs. Analyzed how shared dependencies, partial reuse and missing references limit source attribution.

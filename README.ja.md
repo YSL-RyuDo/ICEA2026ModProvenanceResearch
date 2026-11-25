@@ -188,6 +188,6 @@ Phase 7 TESTと凍結後のPhase 11 ~ 13分析は、凍結済み手法の再調�
 
 ## KSAVS 2026, 関連研究
 
-[ソフトウェア構成要素の出所識別手法に関する比較分析](https://github.com/YSL-RyuDo/ksavs-2026-software-provenance-survey)
+[ソフトウェア構成要素の出所識別手法に関する比較分析](https://github.com/YSL-RyuDo/KSAVS2026SoftwareProvenanceSurvey)
 
 CENTRIS、BinaryAI、LibAM、BinCoFer、BLADEの入力資料、判断根拠、出力を比較しました。共通依存関係、部分的な再利用、参照資料の欠落が出所識別に与える影響を分析しました。

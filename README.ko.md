@@ -188,6 +188,6 @@ Phase 7 TEST와 동결 후 Phase 11 ~ 13 분석은 동결 방법의 재조정에
 
 ## KSAVS 2026, 관련 연구
 
-[소프트웨어 구성요소 출처 식별 기법에 대한 비교분석](https://github.com/YSL-RyuDo/ksavs-2026-software-provenance-survey)
+[소프트웨어 구성요소 출처 식별 기법에 대한 비교분석](https://github.com/YSL-RyuDo/KSAVS2026SoftwareProvenanceSurvey)
 
 CENTRIS, BinaryAI, LibAM, BinCoFer, BLADE의 입력 자료, 판단 근거와 출력을 비교했습니다. 공통 의존성, 부분 재사용, 참조 자료 누락이 출처 식별에 미치는 영향을 분석했습니다.
