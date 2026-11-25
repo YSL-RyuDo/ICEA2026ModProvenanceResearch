@@ -1,12 +1,12 @@
 <a id="readme-ja"></a>
 
-# 異種ゲームMODパッケージの著作権関連由来判定に向けたサーバーサイド複数親プロベナンス再構成
+# ICEA 2026, 異種ゲームMODパッケージの著作権関連由来判定に向けたサーバーサイド複数親プロベナンス再構成
 
 <!-- portfolio-languages -->
 [![English](https://ysl-ryudo.github.io/assets/diagrams/language-en.svg)](README.md) [![한국어](https://ysl-ryudo.github.io/assets/diagrams/language-ko.svg)](README.ko.md) [![日本語（選択中）](https://ysl-ryudo.github.io/assets/diagrams/language-ja-current.svg)](README.ja.md)
 <!-- /portfolio-languages -->
 
-**ICEA 2026: 論文採択、高雄で発表予定、研究を拡張中**
+**ICEA 2026: 論文採択、研究を拡張中**
 
 [International Conference on Intelligent Computing and its Emerging Applications](https://icea-conf.github.io/2026/)
 
@@ -184,3 +184,10 @@ Phase 7 TESTと凍結後のPhase 11 ~ 13分析は、凍結済み手法の再調�
 正式な書誌情報が確定するまでは、再現に使用した正確なコミットと本リポジトリを併記して引用する。リポジトリ全体に適用するライセンスは現時点で宣言していない。第三者のソースコード、データセット、MOD/JAR、その他の資料には、それぞれの元のライセンスが適用される。
 
 研究および再現に関する報告はGitHub Issuesで受け付ける。非公開の問い合わせは[リポジトリ所有者のGitHubプロフィール](https://github.com/YSL-RyuDo)を通じて連絡できる。
+
+
+## KSAVS 2026, 関連研究
+
+[ソフトウェア構成要素の出所識別手法に関する比較分析](https://github.com/YSL-RyuDo/ksavs-2026-software-provenance-survey)
+
+CENTRIS、BinaryAI、LibAM、BinCoFer、BLADEの入力資料、判断根拠、出力を比較しました。共通依存関係、部分的な再利用、参照資料の欠落が出所識別に与える影響を分析しました。

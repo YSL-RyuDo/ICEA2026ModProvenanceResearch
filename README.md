@@ -1,4 +1,4 @@
-# Server-Side Multi-Parent Provenance Reconstruction for Copyright-Related Source Attribution in Heterogeneous Game MOD Packages
+# ICEA 2026, Server-Side Multi-Parent Provenance Reconstruction for Copyright-Related Source Attribution in Heterogeneous Game MOD Packages
 
 [![Research status](https://img.shields.io/badge/status-Phase_1--13_complete-2ea44f)](reproducibility/EXPERIMENT_INDEX.md#user-content-experiment-en)
 [![Benchmark](https://img.shields.io/badge/benchmark-frozen-6f42c1)](reproducibility/EXPERIMENT_INDEX.md#freeze-anchors)
@@ -10,7 +10,7 @@
 [![English (current)](https://ysl-ryudo.github.io/assets/diagrams/language-en-current.svg)](README.md) [![한국어](https://ysl-ryudo.github.io/assets/diagrams/language-ko.svg)](README.ko.md) [![日本語](https://ysl-ryudo.github.io/assets/diagrams/language-ja.svg)](README.ja.md)
 <!-- /portfolio-languages -->
 
-**ICEA 2026: Accepted, presentation planned in Kaohsiung, research extensions in progress**
+**ICEA 2026: Accepted paper, research extensions in progress**
 
 [International Conference on Intelligent Computing and its Emerging Applications](https://icea-conf.github.io/2026/)
 
@@ -194,3 +194,10 @@ This repository is public. Redistribution scope is assessed per artifact; the co
 Until formal bibliographic metadata is finalized, cite this repository together with the exact commit hash used for reproduction. No repository-wide license has yet been declared; do not assume that source code, datasets, MOD/JAR payloads, or third-party materials are licensed for redistribution. Original third-party licenses remain controlling.
 
 For research questions or reproducibility reports, use the repository's GitHub Issues. For private contact, use the [repository owner's GitHub profile](https://github.com/YSL-RyuDo).
+
+
+## KSAVS 2026, Related research
+
+[A Comparative Analysis of Software Component Provenance Identification Techniques](https://github.com/YSL-RyuDo/ksavs-2026-software-provenance-survey)
+
+Compared CENTRIS, BinaryAI, LibAM, BinCoFer and BLADE through their inputs, matching evidence and outputs. Analyzed how shared dependencies, partial reuse and missing references limit source attribution.

@@ -1,12 +1,12 @@
 <a id="readme-ko"></a>
 
-# 이종 게임 MOD 패키지의 저작권 출처 판별을 위한 서버 기반 다중 출처 Provenance 복원 기법
+# ICEA 2026, 이종 게임 MOD 패키지의 저작권 출처 판별을 위한 서버 기반 다중 출처 Provenance 복원 기법
 
 <!-- portfolio-languages -->
 [![English](https://ysl-ryudo.github.io/assets/diagrams/language-en.svg)](README.md) [![한국어 (현재 언어)](https://ysl-ryudo.github.io/assets/diagrams/language-ko-current.svg)](README.ko.md) [![日本語](https://ysl-ryudo.github.io/assets/diagrams/language-ja.svg)](README.ja.md)
 <!-- /portfolio-languages -->
 
-**ICEA 2026: 논문 채택, 대만 가오슝 발표 예정, 후속 연구 확장 중**
+**ICEA 2026: 논문 채택, 후속 연구 확장 중**
 
 [International Conference on Intelligent Computing and its Emerging Applications](https://icea-conf.github.io/2026/)
 
@@ -184,3 +184,10 @@ Phase 7 TEST와 동결 후 Phase 11 ~ 13 분석은 동결 방법의 재조정에
 정식 서지정보가 확정되기 전에는 재현에 사용한 정확한 커밋과 이 저장소를 함께 인용한다. 저장소 전체에 적용되는 라이선스는 아직 선언하지 않았으며, 제3자 소스 코드, 데이터셋, MOD/JAR와 기타 자료에는 각각의 원래 라이선스가 적용된다.
 
 연구 및 재현 관련 보고는 GitHub Issues에서 접수한다. 비공개 문의는 [저장소 소유자의 GitHub 프로필](https://github.com/YSL-RyuDo)을 통해 전달할 수 있다.
+
+
+## KSAVS 2026, 관련 연구
+
+[소프트웨어 구성요소 출처 식별 기법에 대한 비교분석](https://github.com/YSL-RyuDo/ksavs-2026-software-provenance-survey)
+
+CENTRIS, BinaryAI, LibAM, BinCoFer, BLADE의 입력 자료, 판단 근거와 출력을 비교했습니다. 공통 의존성, 부분 재사용, 참조 자료 누락이 출처 식별에 미치는 영향을 분석했습니다.
